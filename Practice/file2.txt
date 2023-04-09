@@ -1,0 +1,27 @@
+[
+    {
+    "name": "hamza",
+    "city": "lahore",
+    "area": "Model town",
+    "desgination": "student",
+    "Work": "SE",
+    "gender": "Male"
+    },
+    {
+    "name": "xzy",
+    "city": "toronto",
+    "area": "hellbery",
+    "desgination": "employee",
+    "Work": "SE",
+    "gender": "female"
+    },
+    {
+    "name": "xzytt",
+    "city": "torontoooo",
+    "area": "hellbereeeey",
+    "desgination": "empleeeeoyee",
+    "Work": "SEeee",
+    "gender": "not defined"
+    }
+
+]
